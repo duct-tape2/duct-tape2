@@ -50,6 +50,8 @@ Inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-t
 
 I package existing learning content from CSV, Markdown, Notion, Obsidian, or a rough Anki deck into a clean `.apkg`, public-safe sample deck, GitHub Pages download page, README, and delivery checklist.
 
+Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
+
 Inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 
 ## Scope
