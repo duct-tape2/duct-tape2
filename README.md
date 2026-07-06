@@ -2,6 +2,8 @@
 
 I build small, practical digital products and repo-to-revenue systems with AI coding agents.
 
+Hub: https://duct-tape2.github.io/
+
 ## Products
 
 ### Easy Japanese: Anime & J-Pop Vocabulary Pack
