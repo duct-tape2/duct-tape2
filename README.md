@@ -18,6 +18,7 @@ The GitHub Funding button also links to the live PayPal checkout options.
 - Free pre-check: https://duct-tape2.github.io/storefront-checker/
 - Details: https://duct-tape2.github.io/storefront-review/
 - PayPal: https://www.paypal.me/sks7178/49
+- Email booking note: mailto:sks7178@gmail.com?subject=Storefront%20Review%20booking&body=Offer:%20Storefront%20Review%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0APublic%20page%20to%20review:%20
 - Request form: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
 - Sample report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
 
@@ -26,14 +27,17 @@ The GitHub Funding button also links to the live PayPal checkout options.
 - Details: https://duct-tape2.github.io/anki-deck-review/
 - Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 - PayPal: https://www.paypal.me/sks7178/49
+- Email booking note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Review%20booking&body=Offer:%20Anki%20Deck%20Review%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADeck%20or%20repo%20URL:%20
 - Request form: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
 - Sample report: https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
 
 ### $99 Setup Services
 
 - Repo-to-Revenue PayPal: https://www.paypal.me/sks7178/99
+- Repo-to-Revenue email note: mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20booking&body=Offer:%20Repo-to-Revenue%20Setup%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0APublic%20repo%20or%20product%20URL:%20
 - Repo-to-Revenue inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-to-revenue-setup.yml
 - Anki Deck Packaging PayPal: https://www.paypal.me/sks7178/99
+- Anki Deck Packaging email note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Packaging%20booking&body=Offer:%20Anki%20Deck%20Packaging%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0APublic%20deck,%20CSV,%20or%20repo%20URL:%20
 - Anki Deck Packaging inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 
 ## Products
@@ -52,6 +56,8 @@ Product page: https://duct-tape2.github.io/japanese-anki-pack/
 
 PayPal: https://www.paypal.me/sks7178/29
 
+Email delivery note: mailto:sks7178@gmail.com?subject=Japanese%20Anki%20Pack%20delivery&body=Offer:%20Easy%20Japanese%20Vocabulary%20Pack%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
+
 Buyer help: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml
 
 ### AI Money Stack for Indie Builders
@@ -67,6 +73,8 @@ Five local-first tools for builders using Codex, Claude Code, Cursor, Obsidian, 
 Product page: https://duct-tape2.github.io/ai-money-stack/
 
 PayPal: https://www.paypal.me/sks7178/25
+
+Email delivery note: mailto:sks7178@gmail.com?subject=AI%20Money%20Stack%20delivery&body=Offer:%20AI%20Money%20Stack%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
 Buyer help: https://github.com/duct-tape2/ai-money-stack/issues/new?template=buy-bundle.yml
 
@@ -99,6 +107,8 @@ Product page: https://duct-tape2.github.io/storefront-starter/
 Free storefront launch guide: https://duct-tape2.github.io/guides/github-pages-storefront/
 
 PayPal: https://www.paypal.me/sks7178/19
+
+Email delivery note: mailto:sks7178@gmail.com?subject=Storefront%20Starter%20delivery&body=Offer:%20GitHub%20Pages%20Storefront%20Starter%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
 Delivery help: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=buy-kit.yml
 
