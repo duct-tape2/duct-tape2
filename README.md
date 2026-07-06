@@ -77,6 +77,8 @@ Audit a small digital-product page for buyer-readiness signals: payment link, su
 
 Browser checker: https://duct-tape2.github.io/storefront-checker/
 
+Free storefront launch guide: https://duct-tape2.github.io/guides/github-pages-storefront/
+
 Script: https://github.com/duct-tape2/ai-money-stack/blob/main/storefront_checker.py
 
 ## DIY Kits
@@ -92,6 +94,8 @@ A small template kit for turning one repo, checklist, Anki deck, PDF, or digital
 - buyer delivery email workflow
 
 Product page: https://duct-tape2.github.io/storefront-starter/
+
+Free storefront launch guide: https://duct-tape2.github.io/guides/github-pages-storefront/
 
 PayPal: https://www.paypal.me/sks7178/19
 
