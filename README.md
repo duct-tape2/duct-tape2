@@ -47,6 +47,10 @@ JLPT N5/N4 Japanese vocabulary pack for anime, J-pop, drama, and travel-focused 
 
 Product page: https://duct-tape2.github.io/japanese-anki-pack/
 
+PayPal: https://www.paypal.me/sks7178/29
+
+Buyer help: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml
+
 ### AI Money Stack for Indie Builders
 
 Five local-first tools for builders using Codex, Claude Code, Cursor, Obsidian, and GitHub.
@@ -58,6 +62,10 @@ Five local-first tools for builders using Codex, Claude Code, Cursor, Obsidian, 
 - paid OSS bounty quality checklist
 
 Product page: https://duct-tape2.github.io/ai-money-stack/
+
+PayPal: https://www.paypal.me/sks7178/25
+
+Buyer help: https://github.com/duct-tape2/ai-money-stack/issues/new?template=buy-bundle.yml
 
 ## Free Tools
 
@@ -82,6 +90,10 @@ A small template kit for turning one repo, checklist, Anki deck, PDF, or digital
 - buyer delivery email workflow
 
 Product page: https://duct-tape2.github.io/storefront-starter/
+
+PayPal: https://www.paypal.me/sks7178/19
+
+Delivery help: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=buy-kit.yml
 
 Free sample checklist: https://duct-tape2.github.io/storefront-starter/free-checklist.md?sample=1
 
