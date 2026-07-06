@@ -28,6 +28,14 @@ Five local-first tools for builders using Codex, Claude Code, Cursor, Obsidian, 
 
 Product page: https://duct-tape2.github.io/ai-money-stack/
 
+## Free Tools
+
+### Storefront Checker
+
+Audit a small digital-product page for buyer-readiness signals: payment link, support email, social card image, free sample, refund terms, and public-safe contact path.
+
+Script: https://github.com/duct-tape2/ai-money-stack/blob/main/storefront_checker.py
+
 ## Services
 
 ### Repo-to-Revenue GitHub Pages Setup - $99
