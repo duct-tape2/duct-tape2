@@ -9,6 +9,8 @@ Hub: https://duct-tape2.github.io/
 One public-safe inquiry form for any paid offer:
 https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
+The GitHub Funding button also links to the live PayPal checkout options.
+
 ### $49 Storefront Review
 
 - PayPal: https://www.paypal.me/sks7178/49
