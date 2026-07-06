@@ -13,6 +13,7 @@ The GitHub Funding button also links to the live PayPal checkout options.
 
 ### $49 Storefront Review
 
+- Free pre-check: https://duct-tape2.github.io/storefront-checker/
 - PayPal: https://www.paypal.me/sks7178/49
 - Request form: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
 - Sample report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
@@ -62,6 +63,8 @@ Product page: https://duct-tape2.github.io/ai-money-stack/
 
 Audit a small digital-product page for buyer-readiness signals: payment link, support email, social card image, free sample, refund terms, and public-safe contact path.
 
+Browser checker: https://duct-tape2.github.io/storefront-checker/
+
 Script: https://github.com/duct-tape2/ai-money-stack/blob/main/storefront_checker.py
 
 ## DIY Kits
@@ -83,6 +86,8 @@ Free sample checklist: https://duct-tape2.github.io/storefront-starter/free-chec
 Sample repo: https://github.com/duct-tape2/github-pages-storefront-starter
 
 Use free template: https://github.com/new?template_name=github-pages-storefront-starter&template_owner=duct-tape2
+
+Run free browser checker: https://duct-tape2.github.io/storefront-checker/
 
 Request public-safe storefront feedback: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=storefront-feedback.yml
 
