@@ -4,6 +4,8 @@ I build small, practical digital products and repo-to-revenue systems with AI co
 
 Hub: https://duct-tape2.github.io/
 
+Direct checkout: https://duct-tape2.github.io/buy/
+
 ## Fastest Paid Options
 
 One public-safe inquiry form for any paid offer:
