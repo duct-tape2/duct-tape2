@@ -56,6 +56,8 @@ Free sample checklist: https://duct-tape2.github.io/storefront-starter/free-chec
 
 Sample repo: https://github.com/duct-tape2/github-pages-storefront-starter
 
+Use free template: https://github.com/new?template_name=github-pages-storefront-starter&template_owner=duct-tape2
+
 ## Services
 
 ### Repo-to-Revenue GitHub Pages Setup - $99
