@@ -24,6 +24,7 @@ The GitHub Funding button also links to the live PayPal checkout options.
 ### $49 Anki Deck Review
 
 - Details: https://duct-tape2.github.io/anki-deck-review/
+- Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 - PayPal: https://www.paypal.me/sks7178/49
 - Request form: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
 - Sample report: https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
@@ -130,6 +131,8 @@ Inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-t
 ### Anki Deck Packaging - $99
 
 I package existing learning content from CSV, Markdown, Notion, Obsidian, or a rough Anki deck into a clean `.apkg`, public-safe sample deck, GitHub Pages download page, README, and delivery checklist.
+
+Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 
 Book $49 Anki Deck Review: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
 
