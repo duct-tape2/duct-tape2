@@ -1,0 +1,62 @@
+name: Paid Product Or Service Inquiry
+description: Ask a public-safe question after, before, or during payment for a paid offer.
+title: "[PAID INQUIRY] "
+labels: ["paid-inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this public-safe form for paid product, review, or service questions.
+
+        Fast payment links:
+        - $49 review: https://www.paypal.me/sks7178/49
+        - $99 setup service: https://www.paypal.me/sks7178/99
+        - $29 Japanese Anki Pack: https://www.paypal.me/sks7178/29
+        - $25 AI Money Stack: https://www.paypal.me/sks7178/25
+        - $19 Storefront Starter: https://www.paypal.me/sks7178/19
+
+        After payment, email sks7178@gmail.com with the payer name/email prefix, approximate payment time, and delivery email.
+
+        Do not post full transaction IDs, payment screenshots, private files, customer data, passwords, API keys, private analytics, or private URLs in this public issue.
+  - type: dropdown
+    id: offer
+    attributes:
+      label: Offer
+      options:
+        - $49 Storefront Review
+        - $49 Anki Deck Review
+        - $99 Repo-to-Revenue Setup
+        - $99 Anki Deck Packaging
+        - $29 Japanese Anki Pack
+        - $25 AI Money Stack
+        - $19 Storefront Starter
+        - Not sure yet
+    validations:
+      required: true
+  - type: dropdown
+    id: payment-status
+    attributes:
+      label: Payment status
+      options:
+        - Asking before payment
+        - Paid and emailed private confirmation
+        - Need a different checkout link
+        - Need help choosing an offer
+    validations:
+      required: true
+  - type: textarea
+    id: public-context
+    attributes:
+      label: Public-safe context
+      description: Share only public links or a short public-safe summary.
+      placeholder: "Public page/repo URL, what you want reviewed or packaged, and the outcome you want."
+    validations:
+      required: true
+  - type: textarea
+    id: delivery
+    attributes:
+      label: Delivery note
+      description: Write "emailed" if you already sent private delivery details.
+      placeholder: "emailed / will email after payment / public answer is enough"
+    validations:
+      required: false

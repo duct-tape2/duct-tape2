@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pay $49 review
+    url: https://www.paypal.me/sks7178/49
+    about: Pay for Storefront Review or Anki Deck Review.
+  - name: Pay $99 setup service
+    url: https://www.paypal.me/sks7178/99
+    about: Pay for Repo-to-Revenue Setup or Anki Deck Packaging.
+  - name: Private email
+    url: mailto:sks7178@gmail.com
+    about: Send private payment confirmation or delivery details.

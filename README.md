@@ -6,6 +6,9 @@ Hub: https://duct-tape2.github.io/
 
 ## Fastest Paid Options
 
+One public-safe inquiry form for any paid offer:
+https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
+
 ### $49 Storefront Review
 
 - PayPal: https://www.paypal.me/sks7178/49
