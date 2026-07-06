@@ -1,0 +1,49 @@
+# duct-tape2
+
+I build small, practical digital products and repo-to-revenue systems with AI coding agents.
+
+## Products
+
+### Easy Japanese: Anime & J-Pop Vocabulary Pack
+
+JLPT N5/N4 Japanese vocabulary pack for anime, J-pop, drama, and travel-focused self-learners.
+
+- 6 free samples
+- free Anki sample deck
+- 84 lesson files
+- 402-note / 804-card Anki deck
+- printable PDF and JLPT CSVs
+
+Product page: https://duct-tape2.github.io/japanese-anki-pack/
+
+### AI Money Stack for Indie Builders
+
+Five local-first tools for builders using Codex, Claude Code, Cursor, Obsidian, and GitHub.
+
+- Obsidian Revenue Scout CLI
+- Idea Forge local PWA
+- PR Review Agent Lite
+- monetization endpoint packet
+- paid OSS bounty quality checklist
+
+Product page: https://duct-tape2.github.io/ai-money-stack/
+
+## Services
+
+### Repo-to-Revenue GitHub Pages Setup - $99
+
+I turn one existing GitHub repo or small digital product into a buyer-ready page with landing copy, payment CTA, free preview asset, README polish, and delivery checklist.
+
+Inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-to-revenue-setup.yml
+
+### Anki Deck Packaging - $99
+
+I package existing learning content from CSV, Markdown, Notion, Obsidian, or a rough Anki deck into a clean `.apkg`, public-safe sample deck, GitHub Pages download page, README, and delivery checklist.
+
+Inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
+
+## Scope
+
+I do not take security, vulnerability, exploit, bypass, jailbreak, spam, credential, or scraping-personal-data work.
+
+For private product or service inquiries, email: sks7178@gmail.com
