@@ -38,6 +38,22 @@ Audit a small digital-product page for buyer-readiness signals: payment link, su
 
 Script: https://github.com/duct-tape2/ai-money-stack/blob/main/storefront_checker.py
 
+## DIY Kits
+
+### GitHub Pages Storefront Starter - $19
+
+A small template kit for turning one repo, checklist, Anki deck, PDF, or digital download into a buyer-ready GitHub Pages storefront.
+
+- editable storefront HTML template
+- public-safe buyer and service inquiry forms
+- launch checklist
+- store upload copy
+- buyer delivery email workflow
+
+Product page: https://duct-tape2.github.io/storefront-starter/
+
+Free sample checklist: https://duct-tape2.github.io/storefront-starter/free-checklist.md?sample=1
+
 ## Services
 
 ### Repo-to-Revenue GitHub Pages Setup - $99
