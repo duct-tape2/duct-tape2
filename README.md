@@ -62,6 +62,8 @@ Request public-safe storefront feedback: https://github.com/duct-tape2/github-pa
 
 Book $49 storefront review: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
 
+Sample storefront review report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
+
 ## Services
 
 ### Repo-to-Revenue GitHub Pages Setup - $99
@@ -77,6 +79,8 @@ Inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-t
 I package existing learning content from CSV, Markdown, Notion, Obsidian, or a rough Anki deck into a clean `.apkg`, public-safe sample deck, GitHub Pages download page, README, and delivery checklist.
 
 Book $49 Anki Deck Review: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
+
+Sample Anki deck review report: https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
 
 Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
 
