@@ -14,12 +14,14 @@ The GitHub Funding button also links to the live PayPal checkout options.
 ### $49 Storefront Review
 
 - Free pre-check: https://duct-tape2.github.io/storefront-checker/
+- Details: https://duct-tape2.github.io/storefront-review/
 - PayPal: https://www.paypal.me/sks7178/49
 - Request form: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
 - Sample report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
 
 ### $49 Anki Deck Review
 
+- Details: https://duct-tape2.github.io/anki-deck-review/
 - PayPal: https://www.paypal.me/sks7178/49
 - Request form: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
 - Sample report: https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
@@ -93,6 +95,8 @@ Request public-safe storefront feedback: https://github.com/duct-tape2/github-pa
 
 Book $49 storefront review: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
 
+Storefront review details: https://duct-tape2.github.io/storefront-review/
+
 Sample storefront review report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
 
 ## Services
@@ -110,6 +114,8 @@ Inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-t
 I package existing learning content from CSV, Markdown, Notion, Obsidian, or a rough Anki deck into a clean `.apkg`, public-safe sample deck, GitHub Pages download page, README, and delivery checklist.
 
 Book $49 Anki Deck Review: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
+
+Anki Deck Review details: https://duct-tape2.github.io/anki-deck-review/
 
 Sample Anki deck review report: https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
 
