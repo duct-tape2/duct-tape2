@@ -58,6 +58,8 @@ Sample repo: https://github.com/duct-tape2/github-pages-storefront-starter
 
 Use free template: https://github.com/new?template_name=github-pages-storefront-starter&template_owner=duct-tape2
 
+Request public-safe storefront feedback: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=storefront-feedback.yml
+
 ## Services
 
 ### Repo-to-Revenue GitHub Pages Setup - $99
