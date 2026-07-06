@@ -60,6 +60,8 @@ Use free template: https://github.com/new?template_name=github-pages-storefront-
 
 Request public-safe storefront feedback: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=storefront-feedback.yml
 
+Book $49 storefront review: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
+
 ## Services
 
 ### Repo-to-Revenue GitHub Pages Setup - $99
