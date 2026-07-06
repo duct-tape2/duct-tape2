@@ -42,6 +42,8 @@ Script: https://github.com/duct-tape2/ai-money-stack/blob/main/storefront_checke
 
 I turn one existing GitHub repo or small digital product into a buyer-ready page with landing copy, payment CTA, free preview asset, README polish, and delivery checklist.
 
+Service page: https://duct-tape2.github.io/ai-money-stack/repo-to-revenue/
+
 Inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-to-revenue-setup.yml
 
 ### Anki Deck Packaging - $99
