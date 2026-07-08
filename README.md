@@ -6,6 +6,8 @@ Hub: https://duct-tape2.github.io/
 
 Direct checkout: https://duct-tape2.github.io/buy/
 
+Free tools thank-you tip: https://www.paypal.me/sks7178/5
+
 ## Fastest Paid Options
 
 One public-safe inquiry form for any paid offer:
