@@ -13,6 +13,14 @@ https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 The GitHub Funding button also links to the live PayPal checkout options.
 
+### $39 Repo-to-Revenue Launch Bundle
+
+- Details: https://duct-tape2.github.io/repo-to-revenue-launch-bundle/
+- Includes: AI Money Stack + GitHub Pages Storefront Starter
+- PayPal: https://www.paypal.me/sks7178/39
+- Email delivery note: mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20Launch%20Bundle%20delivery&body=Offer:%20Repo-to-Revenue%20Launch%20Bundle%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
+- Buyer help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
+
 ### $49 Storefront Review
 
 - Free pre-check: https://duct-tape2.github.io/storefront-checker/
