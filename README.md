@@ -6,6 +6,9 @@ Hub: https://duct-tape2.github.io/
 
 Direct checkout: https://duct-tape2.github.io/buy/
 
+Not sure what to buy? Use the offer chooser:
+https://duct-tape2.github.io/tools/offer-chooser/
+
 Offer catalog: https://duct-tape2.github.io/offers.json
 
 Free tools thank-you tip: https://www.paypal.me/sks7178/5
