@@ -8,6 +8,8 @@ Direct checkout: https://duct-tape2.github.io/buy/
 
 Free tools thank-you tip: https://www.paypal.me/sks7178/5
 
+Shorts item generator starter: https://duct-tape2.github.io/shorts-item-generator/
+
 Static storefront page builder: https://duct-tape2.github.io/tools/static-storefront-builder/
 
 PayPal button builder: https://duct-tape2.github.io/tools/paypal-button-builder/
@@ -20,7 +22,7 @@ Anki builder free preview: https://duct-tape2.github.io/downloads/anki-deck-buil
 
 | Repo | Live buyer path | Main paid path |
 | --- | --- | --- |
-| https://github.com/duct-tape2/duct-tape2.github.io | https://duct-tape2.github.io/buy/ | 6 products + 2 services |
+| https://github.com/duct-tape2/duct-tape2.github.io | https://duct-tape2.github.io/buy/ | 7 products + 2 services |
 | https://github.com/duct-tape2/japanese-anki-pack | https://duct-tape2.github.io/japanese-anki-pack/ | free builder preview, $19 kit, $29 pack, $49 review, $99 packaging |
 | https://github.com/duct-tape2/github-pages-storefront-starter | https://duct-tape2.github.io/storefront-starter/ | $19 kit, $39 bundle, $49 review, $99 setup |
 | https://github.com/duct-tape2/ai-money-stack | https://duct-tape2.github.io/ai-money-stack/ | $25 pack, $39 bundle, $99 setup |
@@ -33,6 +35,14 @@ https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 The GitHub Funding button also links to the live PayPal checkout options.
 
 Refund/support terms are listed on the direct checkout page before payment: https://duct-tape2.github.io/buy/
+
+### $9 Shorts Item Generator Starter
+
+- Details: https://duct-tape2.github.io/shorts-item-generator/
+- Includes: local generator, reusable prompt, creator intake sheet, demo output, 30-day Shorts calendar, and delivery email template
+- PayPal: https://www.paypal.me/sks7178/9
+- Email delivery note: mailto:sks7178@gmail.com?subject=Shorts%20Item%20Generator%20Starter%20delivery&body=Offer:%20Shorts%20Item%20Generator%20Starter%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
+- Buyer help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
 
 ### $39 Repo-to-Revenue Launch Bundle
 
@@ -117,6 +127,25 @@ PayPal: https://www.paypal.me/sks7178/25
 Email delivery note: mailto:sks7178@gmail.com?subject=AI%20Money%20Stack%20delivery&body=Offer:%20AI%20Money%20Stack%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
 Buyer help: https://github.com/duct-tape2/ai-money-stack/issues/new?template=buy-bundle.yml
+
+### Shorts Item Generator Starter
+
+Local-first starter kit for turning one topic line into short-form content planning assets.
+
+- 10 hooks
+- one 45-60 second short-form script outline
+- 5 thumbnail copy options
+- reusable prompt
+- creator intake sheet
+- 30-day Shorts calendar CSV
+
+Product page: https://duct-tape2.github.io/shorts-item-generator/
+
+PayPal: https://www.paypal.me/sks7178/9
+
+Email delivery note: mailto:sks7178@gmail.com?subject=Shorts%20Item%20Generator%20Starter%20delivery&body=Offer:%20Shorts%20Item%20Generator%20Starter%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
+
+Buyer help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
 
 ## Free Tools
 
