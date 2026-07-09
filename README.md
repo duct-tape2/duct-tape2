@@ -6,6 +6,8 @@ Hub: https://duct-tape2.github.io/
 
 Direct checkout: https://duct-tape2.github.io/buy/
 
+Offer catalog: https://duct-tape2.github.io/offers.json
+
 Free tools thank-you tip: https://www.paypal.me/sks7178/5
 
 Shorts item generator starter: https://duct-tape2.github.io/shorts-item-generator/
@@ -22,7 +24,7 @@ Anki builder free preview: https://duct-tape2.github.io/downloads/anki-deck-buil
 
 | Repo | Live buyer path | Main paid path |
 | --- | --- | --- |
-| https://github.com/duct-tape2/duct-tape2.github.io | https://duct-tape2.github.io/buy/ | 7 products + 2 services |
+| https://github.com/duct-tape2/duct-tape2.github.io | https://duct-tape2.github.io/buy/ | 11 public offers, 9 store-upload listings |
 | https://github.com/duct-tape2/japanese-anki-pack | https://duct-tape2.github.io/japanese-anki-pack/ | free builder preview, $19 kit, $29 pack, $49 review, $99 packaging |
 | https://github.com/duct-tape2/github-pages-storefront-starter | https://duct-tape2.github.io/storefront-starter/ | $19 kit, $39 bundle, $49 review, $99 setup |
 | https://github.com/duct-tape2/ai-money-stack | https://duct-tape2.github.io/ai-money-stack/ | $25 pack, $39 bundle, $99 setup |
@@ -33,6 +35,8 @@ One public-safe inquiry form for any paid offer:
 https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 The GitHub Funding button also links to the live PayPal checkout options.
+
+Current catalog: 11 public offers, with 9 Payhip/Gumroad-upload-ready listings prepared.
 
 Refund/support terms are listed on the direct checkout page before payment: https://duct-tape2.github.io/buy/
 
