@@ -8,6 +8,8 @@ Direct checkout: https://duct-tape2.github.io/buy/
 
 Free tools thank-you tip: https://www.paypal.me/sks7178/5
 
+Static storefront page builder: https://duct-tape2.github.io/tools/static-storefront-builder/
+
 PayPal button builder: https://duct-tape2.github.io/tools/paypal-button-builder/
 
 ## Fastest Paid Options
@@ -98,6 +100,8 @@ Audit a small digital-product page for buyer-readiness signals: payment link, su
 
 Browser checker: https://duct-tape2.github.io/storefront-checker/
 
+Static storefront page builder: https://duct-tape2.github.io/tools/static-storefront-builder/
+
 PayPal button builder: https://duct-tape2.github.io/tools/paypal-button-builder/
 
 Free storefront launch guide: https://duct-tape2.github.io/guides/github-pages-storefront/
@@ -119,6 +123,8 @@ A small template kit for turning one repo, checklist, Anki deck, PDF, or digital
 Product page: https://duct-tape2.github.io/storefront-starter/
 
 Free storefront launch guide: https://duct-tape2.github.io/guides/github-pages-storefront/
+
+Static storefront page builder: https://duct-tape2.github.io/tools/static-storefront-builder/
 
 PayPal checkout builder: https://duct-tape2.github.io/tools/paypal-button-builder/
 
