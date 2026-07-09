@@ -9,11 +9,17 @@ body:
         Use this public-safe form for paid product, review, or service questions.
 
         Fast payment links:
+        - $5 free tools thank-you tip: https://www.paypal.me/sks7178/5
+        - $9 Shorts Item Generator Starter: https://www.paypal.me/sks7178/9
+        - $19 Storefront Starter or Anki Deck Builder Kit: https://www.paypal.me/sks7178/19
+        - $25 AI Money Stack: https://www.paypal.me/sks7178/25
+        - $29 Japanese Anki Pack: https://www.paypal.me/sks7178/29
+        - $39 Repo-to-Revenue Launch Bundle: https://www.paypal.me/sks7178/39
         - $49 review: https://www.paypal.me/sks7178/49
         - $99 setup service: https://www.paypal.me/sks7178/99
-        - $29 Japanese Anki Pack: https://www.paypal.me/sks7178/29
-        - $25 AI Money Stack: https://www.paypal.me/sks7178/25
-        - $19 Storefront Starter: https://www.paypal.me/sks7178/19
+
+        Full catalog: https://duct-tape2.github.io/offers.json
+        Direct checkout: https://duct-tape2.github.io/buy/
 
         After payment, email sks7178@gmail.com with the payer name/email prefix, approximate payment time, and delivery email.
 
@@ -23,13 +29,17 @@ body:
     attributes:
       label: Offer
       options:
+        - $5 Free Tools Thank-You Tip
+        - $9 Shorts Item Generator Starter
+        - $19 GitHub Pages Storefront Starter
+        - $19 Anki Deck Builder Kit
+        - $25 AI Money Stack
+        - $29 Japanese Anki Pack
+        - $39 Repo-to-Revenue Launch Bundle
         - $49 Storefront Review
         - $49 Anki Deck Review
         - $99 Repo-to-Revenue Setup
         - $99 Anki Deck Packaging
-        - $29 Japanese Anki Pack
-        - $25 AI Money Stack
-        - $19 Storefront Starter
         - Not sure yet
     validations:
       required: true
