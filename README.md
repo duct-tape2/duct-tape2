@@ -32,6 +32,8 @@ https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 The GitHub Funding button also links to the live PayPal checkout options.
 
+Refund/support terms are listed on the direct checkout page before payment: https://duct-tape2.github.io/buy/
+
 ### $39 Repo-to-Revenue Launch Bundle
 
 - Details: https://duct-tape2.github.io/repo-to-revenue-launch-bundle/
