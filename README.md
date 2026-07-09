@@ -47,7 +47,7 @@ The GitHub Funding button also links to the live PayPal checkout options.
 - PayPal: https://www.paypal.me/sks7178/49
 - Email booking note: mailto:sks7178@gmail.com?subject=Storefront%20Review%20booking&body=Offer:%20Storefront%20Review%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0APublic%20page%20to%20review:%20
 - Request form: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
-- Sample report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
+- Sample report: https://duct-tape2.github.io/examples/storefront-review-sample/
 
 ### $19 Anki Deck Builder Kit
 
@@ -67,7 +67,7 @@ The GitHub Funding button also links to the live PayPal checkout options.
 - PayPal: https://www.paypal.me/sks7178/49
 - Email booking note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Review%20booking&body=Offer:%20Anki%20Deck%20Review%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADeck%20or%20repo%20URL:%20
 - Request form: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
-- Sample report: https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
+- Sample report: https://duct-tape2.github.io/examples/anki-deck-review-sample/
 
 ### $99 Setup Services
 
@@ -172,7 +172,7 @@ Book $49 storefront review: https://github.com/duct-tape2/github-pages-storefron
 
 Storefront review details: https://duct-tape2.github.io/storefront-review/
 
-Sample storefront review report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
+Sample storefront review report: https://duct-tape2.github.io/examples/storefront-review-sample/
 
 ### Anki Deck Builder Kit - $19
 
@@ -222,7 +222,7 @@ Book $49 Anki Deck Review: https://github.com/duct-tape2/japanese-anki-pack/issu
 
 Anki Deck Review details: https://duct-tape2.github.io/anki-deck-review/
 
-Sample Anki deck review report: https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
+Sample Anki deck review report: https://duct-tape2.github.io/examples/anki-deck-review-sample/
 
 Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
 
