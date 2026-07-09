@@ -14,6 +14,15 @@ PayPal button builder: https://duct-tape2.github.io/tools/paypal-button-builder/
 
 Anki deck builder kit: https://duct-tape2.github.io/anki-deck-builder-kit/
 
+## Revenue Repo Shortcuts
+
+| Repo | Live buyer path | Main paid path |
+| --- | --- | --- |
+| https://github.com/duct-tape2/duct-tape2.github.io | https://duct-tape2.github.io/buy/ | 6 products + 2 services |
+| https://github.com/duct-tape2/japanese-anki-pack | https://duct-tape2.github.io/japanese-anki-pack/ | $19 builder kit, $29 pack, $49 review, $99 packaging |
+| https://github.com/duct-tape2/github-pages-storefront-starter | https://duct-tape2.github.io/storefront-starter/ | $19 kit, $39 bundle, $49 review, $99 setup |
+| https://github.com/duct-tape2/ai-money-stack | https://duct-tape2.github.io/ai-money-stack/ | $25 pack, $39 bundle, $99 setup |
+
 ## Fastest Paid Options
 
 One public-safe inquiry form for any paid offer:
