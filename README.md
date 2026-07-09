@@ -14,12 +14,14 @@ PayPal button builder: https://duct-tape2.github.io/tools/paypal-button-builder/
 
 Anki deck builder kit: https://duct-tape2.github.io/anki-deck-builder-kit/
 
+Anki builder free preview: https://duct-tape2.github.io/downloads/anki-deck-builder-kit-free-preview.md
+
 ## Revenue Repo Shortcuts
 
 | Repo | Live buyer path | Main paid path |
 | --- | --- | --- |
 | https://github.com/duct-tape2/duct-tape2.github.io | https://duct-tape2.github.io/buy/ | 6 products + 2 services |
-| https://github.com/duct-tape2/japanese-anki-pack | https://duct-tape2.github.io/japanese-anki-pack/ | $19 builder kit, $29 pack, $49 review, $99 packaging |
+| https://github.com/duct-tape2/japanese-anki-pack | https://duct-tape2.github.io/japanese-anki-pack/ | free builder preview, $19 kit, $29 pack, $49 review, $99 packaging |
 | https://github.com/duct-tape2/github-pages-storefront-starter | https://duct-tape2.github.io/storefront-starter/ | $19 kit, $39 bundle, $49 review, $99 setup |
 | https://github.com/duct-tape2/ai-money-stack | https://duct-tape2.github.io/ai-money-stack/ | $25 pack, $39 bundle, $99 setup |
 
@@ -50,6 +52,8 @@ The GitHub Funding button also links to the live PayPal checkout options.
 ### $19 Anki Deck Builder Kit
 
 - Details: https://duct-tape2.github.io/anki-deck-builder-kit/
+- Free preview: https://duct-tape2.github.io/downloads/anki-deck-builder-kit-free-preview.md
+- Preview release: https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-anki-builder-preview
 - Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 - Sample deck preview: https://duct-tape2.github.io/examples/japanese-anki-sample-deck/
 - PayPal: https://www.paypal.me/sks7178/19
@@ -181,6 +185,10 @@ A small builder kit for turning vocabulary rows, CSV exports, lesson notes, or l
 - buyer delivery email workflow
 
 Product page: https://duct-tape2.github.io/anki-deck-builder-kit/
+
+Free preview: https://duct-tape2.github.io/downloads/anki-deck-builder-kit-free-preview.md
+
+Preview release: https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-anki-builder-preview
 
 Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 
