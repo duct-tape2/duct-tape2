@@ -12,6 +12,8 @@ Static storefront page builder: https://duct-tape2.github.io/tools/static-storef
 
 PayPal button builder: https://duct-tape2.github.io/tools/paypal-button-builder/
 
+Anki deck builder kit: https://duct-tape2.github.io/anki-deck-builder-kit/
+
 ## Fastest Paid Options
 
 One public-safe inquiry form for any paid offer:
@@ -35,6 +37,15 @@ The GitHub Funding button also links to the live PayPal checkout options.
 - Email booking note: mailto:sks7178@gmail.com?subject=Storefront%20Review%20booking&body=Offer:%20Storefront%20Review%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0APublic%20page%20to%20review:%20
 - Request form: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
 - Sample report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
+
+### $19 Anki Deck Builder Kit
+
+- Details: https://duct-tape2.github.io/anki-deck-builder-kit/
+- Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
+- Sample deck preview: https://duct-tape2.github.io/examples/japanese-anki-sample-deck/
+- PayPal: https://www.paypal.me/sks7178/19
+- Email delivery note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Builder%20Kit%20delivery&body=Offer:%20Anki%20Deck%20Builder%20Kit%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
+- Buyer help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
 
 ### $49 Anki Deck Review
 
@@ -149,6 +160,30 @@ Book $49 storefront review: https://github.com/duct-tape2/github-pages-storefron
 Storefront review details: https://duct-tape2.github.io/storefront-review/
 
 Sample storefront review report: https://github.com/duct-tape2/github-pages-storefront-starter/blob/main/examples/storefront-review-sample.md
+
+### Anki Deck Builder Kit - $19
+
+A small builder kit for turning vocabulary rows, CSV exports, lesson notes, or language-learning outlines into a clean Anki deck workflow.
+
+- deck planning template
+- CSV-to-card structure checklist
+- public-safe sample deck packaging flow
+- landing page and delivery copy
+- buyer delivery email workflow
+
+Product page: https://duct-tape2.github.io/anki-deck-builder-kit/
+
+Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
+
+Sample deck preview: https://duct-tape2.github.io/examples/japanese-anki-sample-deck/
+
+PayPal: https://www.paypal.me/sks7178/19
+
+Email delivery note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Builder%20Kit%20delivery&body=Offer:%20Anki%20Deck%20Builder%20Kit%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
+
+Delivery help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
+
+All offers checkout: https://duct-tape2.github.io/buy/
 
 ## Services
 
