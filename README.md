@@ -75,7 +75,7 @@ Refund/support terms are listed on the direct checkout page before payment: http
 
 - Details: https://duct-tape2.github.io/repo-to-revenue-launch-bundle/
 - Includes: AI Money Stack + GitHub Pages Storefront Starter
-- PayPal: https://www.paypal.me/sks7178/39
+- Payhip checkout: https://payhip.com/b/qHsNi
 - Email delivery note: mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20Launch%20Bundle%20delivery&body=Offer:%20Repo-to-Revenue%20Launch%20Bundle%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 - Buyer help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
 
@@ -149,7 +149,7 @@ Five local-first tools for builders using Codex, Claude Code, Cursor, Obsidian, 
 
 Product page: https://duct-tape2.github.io/ai-money-stack/
 
-PayPal: https://www.paypal.me/sks7178/25
+Payhip checkout: https://payhip.com/b/RJ63W
 
 Email delivery note: mailto:sks7178@gmail.com?subject=AI%20Money%20Stack%20delivery&body=Offer:%20AI%20Money%20Stack%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
@@ -210,7 +210,7 @@ Static storefront page builder: https://duct-tape2.github.io/tools/static-storef
 
 PayPal checkout builder: https://duct-tape2.github.io/tools/paypal-button-builder/
 
-PayPal: https://www.paypal.me/sks7178/19
+Payhip checkout: https://payhip.com/b/KN6XS
 
 Email delivery note: mailto:sks7178@gmail.com?subject=Storefront%20Starter%20delivery&body=Offer:%20GitHub%20Pages%20Storefront%20Starter%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
