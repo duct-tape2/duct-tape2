@@ -1,6 +1,26 @@
 # duct-tape2
 
-I build small, practical digital products and repo-to-revenue systems with AI coding agents.
+## Open Source Maintenance
+
+I maintain [ai-language-partner](https://github.com/duct-tape2/ai-language-partner),
+an MIT-licensed, local-first Japanese speaking practice app for Korean learners.
+It uses pre-authored dialogue banks with local STT/TTS instead of requiring a
+runtime cloud LLM.
+
+- [Try the hosted web demo](https://duct-tape2.github.io/ai-language-partner/demo/)
+- [Choose a first issue](https://duct-tape2.github.io/ai-language-partner/community/FIRST_ISSUE_MATCHER.html)
+- [Make a browser-only first PR](https://duct-tape2.github.io/ai-language-partner/community/NO_INSTALL_FIRST_PRS.html)
+- [Read the contributor guide](https://github.com/duct-tape2/ai-language-partner/blob/main/CONTRIBUTING.md)
+- [Join the 20-contributor sprint](https://github.com/duct-tape2/ai-language-partner/issues/52)
+
+The repository has CI, branch protection, security and conduct policies, and
+27 no-install contribution tasks across Expo, FastAPI, accessibility,
+documentation, and Korean/Japanese language review. I review focused,
+issue-linked pull requests and do not count trivial PR splitting.
+
+## Products And Tools
+
+I also build small, practical digital products and repo-to-revenue systems with AI coding agents.
 
 Hub: https://duct-tape2.github.io/
 
