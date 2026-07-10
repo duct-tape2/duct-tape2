@@ -90,8 +90,8 @@ Refund/support terms are listed on the direct checkout page before payment: http
 
 ### $99 Setup Services
 
-- Repo-to-Revenue PayPal: https://www.paypal.me/sks7178/99
-- Repo-to-Revenue email note: mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20booking&body=Offer:%20Repo-to-Revenue%20Setup%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0APublic%20repo%20or%20product%20URL:%20
+- Repo-to-Revenue Payhip checkout: https://payhip.com/b/ZOl1I
+- Repo-to-Revenue private question: mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20repo%20or%20product%20URL:%20%0AQuestion:%20
 - Repo-to-Revenue inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-to-revenue-setup.yml
 - Anki Deck Packaging PayPal: https://www.paypal.me/sks7178/99
 - Anki Deck Packaging email note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Packaging%20booking&body=Offer:%20Anki%20Deck%20Packaging%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0APublic%20deck,%20CSV,%20or%20repo%20URL:%20
@@ -247,6 +247,8 @@ All offers checkout: https://duct-tape2.github.io/buy/
 I turn one existing GitHub repo or small digital product into a buyer-ready page with landing copy, payment CTA, free preview asset, README polish, and delivery checklist.
 
 Service page: https://duct-tape2.github.io/ai-money-stack/repo-to-revenue/
+
+Checkout: https://payhip.com/b/ZOl1I
 
 Inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-to-revenue-setup.yml
 
