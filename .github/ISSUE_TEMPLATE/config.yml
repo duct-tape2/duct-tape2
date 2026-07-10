@@ -2,25 +2,25 @@ blank_issues_enabled: false
 contact_links:
   - name: Direct checkout for all offers
     url: https://duct-tape2.github.io/buy/
-    about: Pay for products, reviews, or setup services from one page.
+    about: Buy nine live Payhip listings or start a request-first review.
   - name: Offer catalog
     url: https://duct-tape2.github.io/offers.json
     about: Machine-readable list of all 11 public offers and request paths.
   - name: Pay $9 starter
-    url: https://www.paypal.me/sks7178/9
+    url: https://payhip.com/b/aUOu1
     about: Pay for Shorts Item Generator Starter.
-  - name: Pay $19 starter kit
-    url: https://www.paypal.me/sks7178/19
-    about: Pay for Storefront Starter or Anki Deck Builder Kit.
+  - name: Choose a $19 starter kit
+    url: https://duct-tape2.github.io/tools/offer-chooser/
+    about: Choose Storefront Starter or Anki Deck Builder Kit.
   - name: Pay $39 launch bundle
-    url: https://www.paypal.me/sks7178/39
+    url: https://payhip.com/b/qHsNi
     about: Pay for Repo-to-Revenue Launch Bundle.
-  - name: Pay $49 review
-    url: https://www.paypal.me/sks7178/49
-    about: Pay for Storefront Review or Anki Deck Review.
-  - name: Pay $99 setup service
-    url: https://www.paypal.me/sks7178/99
-    about: Pay for Repo-to-Revenue Setup or Anki Deck Packaging.
+  - name: Request a $49 review
+    url: https://duct-tape2.github.io/tools/offer-chooser/
+    about: Choose a Storefront Review or Anki Deck Review and request scope first.
+  - name: Book $99 setup service
+    url: https://payhip.com/b/ZOl1I
+    about: Book Repo-to-Revenue Setup for one public repo or product.
   - name: Private email
     url: mailto:sks7178@gmail.com
-    about: Send private payment confirmation or delivery details.
+    about: Send private support or service intake details.

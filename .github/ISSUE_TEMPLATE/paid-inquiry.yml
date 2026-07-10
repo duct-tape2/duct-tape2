@@ -8,20 +8,23 @@ body:
       value: |
         Use this public-safe form for paid product, review, or service questions.
 
-        Fast payment links:
-        - $5 free tools thank-you tip: https://www.paypal.me/sks7178/5
-        - $9 Shorts Item Generator Starter: https://www.paypal.me/sks7178/9
-        - $19 Storefront Starter or Anki Deck Builder Kit: https://www.paypal.me/sks7178/19
-        - $25 AI Money Stack: https://www.paypal.me/sks7178/25
-        - $29 Japanese Anki Pack: https://www.paypal.me/sks7178/29
-        - $39 Repo-to-Revenue Launch Bundle: https://www.paypal.me/sks7178/39
-        - $49 review: https://www.paypal.me/sks7178/49
-        - $99 setup service: https://www.paypal.me/sks7178/99
+        Live checkout and request links:
+        - $5 free tools thank-you tip: https://payhip.com/b/0LKEF
+        - $9 Shorts Item Generator Starter: https://payhip.com/b/aUOu1
+        - $19 Storefront Starter: https://payhip.com/b/KN6XS
+        - $19 Anki Deck Builder Kit: https://payhip.com/b/cSObV
+        - $25 AI Money Stack: https://payhip.com/b/RJ63W
+        - $29 Japanese Anki Pack: https://payhip.com/b/D0mhb
+        - $39 Repo-to-Revenue Launch Bundle: https://payhip.com/b/qHsNi
+        - $49 Storefront Review request: https://github.com/duct-tape2/github-pages-storefront-starter/issues/new?template=paid-storefront-review.yml
+        - $49 Anki Deck Review request: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
+        - $99 Repo-to-Revenue Setup: https://payhip.com/b/ZOl1I
+        - $99 Anki Deck Packaging: https://payhip.com/b/lytaz
 
         Full catalog: https://duct-tape2.github.io/offers.json
         Direct checkout: https://duct-tape2.github.io/buy/
 
-        After payment, email sks7178@gmail.com with the payer name/email prefix, approximate payment time, and delivery email.
+        Payhip delivers digital products automatically. For services, follow the listing intake instructions. The $49 reviews start with a public-safe request before payment.
 
         Do not post full transaction IDs, payment screenshots, private files, customer data, passwords, API keys, private analytics, or private URLs in this public issue.
   - type: dropdown
@@ -49,7 +52,8 @@ body:
       label: Payment status
       options:
         - Asking before payment
-        - Paid and emailed private confirmation
+        - Paid through Payhip
+        - Review request submitted before payment
         - Need a different checkout link
         - Need help choosing an offer
     validations:
