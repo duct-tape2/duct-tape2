@@ -93,8 +93,8 @@ Refund/support terms are listed on the direct checkout page before payment: http
 - Repo-to-Revenue Payhip checkout: https://payhip.com/b/ZOl1I
 - Repo-to-Revenue private question: mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20repo%20or%20product%20URL:%20%0AQuestion:%20
 - Repo-to-Revenue inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-to-revenue-setup.yml
-- Anki Deck Packaging PayPal: https://www.paypal.me/sks7178/99
-- Anki Deck Packaging email note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Packaging%20booking&body=Offer:%20Anki%20Deck%20Packaging%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0APublic%20deck,%20CSV,%20or%20repo%20URL:%20
+- Anki Deck Packaging Payhip checkout: https://payhip.com/b/lytaz
+- Anki Deck Packaging private question: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Packaging%20question&body=Public%20deck,%20CSV,%20notes,%20or%20repo%20URL:%20%0AQuestion:%20
 - Anki Deck Packaging inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 
 ## Products
@@ -265,6 +265,8 @@ Anki Deck Review details: https://duct-tape2.github.io/anki-deck-review/
 Sample Anki deck review report: https://duct-tape2.github.io/examples/anki-deck-review-sample/
 
 Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
+
+Checkout: https://payhip.com/b/lytaz
 
 Inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 
