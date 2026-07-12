@@ -24,14 +24,14 @@ I also build small, practical digital products and repo-to-revenue systems with 
 
 Hub: https://duct-tape2.github.io/
 
-Direct checkout: https://duct-tape2.github.io/buy/
+Offer and checkout status: https://duct-tape2.github.io/buy/
 
 Not sure what to buy? Use the offer chooser:
 https://duct-tape2.github.io/tools/offer-chooser/
 
 Offer catalog: https://duct-tape2.github.io/offers.json
 
-Free tools thank-you tip: https://payhip.com/b/0LKEF
+Request a confirmed $5 thank-you checkout: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 Shorts item generator starter: https://duct-tape2.github.io/shorts-item-generator/
 
@@ -47,7 +47,7 @@ Anki builder free preview: https://duct-tape2.github.io/downloads/anki-deck-buil
 
 | Repo | Live buyer path | Main paid path |
 | --- | --- | --- |
-| https://github.com/duct-tape2/duct-tape2.github.io | https://duct-tape2.github.io/buy/ | 11 public offers, 9 live Payhip listings |
+| https://github.com/duct-tape2/duct-tape2.github.io | https://duct-tape2.github.io/buy/ | 11 public offers, checkout confirmation while payments are paused |
 | https://github.com/duct-tape2/japanese-anki-pack | https://duct-tape2.github.io/japanese-anki-pack/ | free builder preview, $19 kit, $29 pack, $49 review, $99 packaging |
 | https://github.com/duct-tape2/github-pages-storefront-starter | https://duct-tape2.github.io/storefront-starter/ | $19 kit, $39 bundle, $49 review, $99 setup |
 | https://github.com/duct-tape2/ai-money-stack | https://duct-tape2.github.io/ai-money-stack/ | $25 pack, $39 bundle, $99 setup |
@@ -57,17 +57,17 @@ Anki builder free preview: https://duct-tape2.github.io/downloads/anki-deck-buil
 One public-safe inquiry form for any paid offer:
 https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
-The GitHub Funding button links to the live Payhip storefront options.
+The GitHub Funding button links to the offer status page and paid inquiry form.
 
-Current catalog: 11 public offers, with 9 live Payhip listings.
+Payment acceptance is temporarily paused while payout settings are restored. Request and confirm a working checkout before paying. The current catalog has 11 public offers: 9 checkout-confirmation offers and 2 request-first reviews.
 
-Refund/support terms are listed on the direct checkout page before payment: https://duct-tape2.github.io/buy/
+Refund/support terms and current checkout status are listed before payment: https://duct-tape2.github.io/buy/
 
 ### $9 Shorts Item Generator Starter
 
 - Details: https://duct-tape2.github.io/shorts-item-generator/
 - Includes: local generator, reusable prompt, creator intake sheet, demo output, 30-day Shorts calendar, and delivery email template
-- Payhip checkout: https://payhip.com/b/aUOu1
+- Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 - Email delivery note: mailto:sks7178@gmail.com?subject=Shorts%20Item%20Generator%20Starter%20delivery&body=Offer:%20Shorts%20Item%20Generator%20Starter%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 - Buyer help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
 
@@ -75,7 +75,7 @@ Refund/support terms are listed on the direct checkout page before payment: http
 
 - Details: https://duct-tape2.github.io/repo-to-revenue-launch-bundle/
 - Includes: AI Money Stack + GitHub Pages Storefront Starter
-- Payhip checkout: https://payhip.com/b/qHsNi
+- Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 - Email delivery note: mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20Launch%20Bundle%20delivery&body=Offer:%20Repo-to-Revenue%20Launch%20Bundle%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 - Buyer help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
 
@@ -95,7 +95,7 @@ Refund/support terms are listed on the direct checkout page before payment: http
 - Preview release: https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-anki-builder-preview
 - Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 - Sample deck preview: https://duct-tape2.github.io/examples/japanese-anki-sample-deck/
-- Payhip checkout: https://payhip.com/b/cSObV
+- Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 - Email delivery note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Builder%20Kit%20delivery&body=Offer:%20Anki%20Deck%20Builder%20Kit%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 - Buyer help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
 
@@ -110,10 +110,10 @@ Refund/support terms are listed on the direct checkout page before payment: http
 
 ### $99 Setup Services
 
-- Repo-to-Revenue Payhip checkout: https://payhip.com/b/ZOl1I
+- Repo-to-Revenue checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 - Repo-to-Revenue private question: mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20repo%20or%20product%20URL:%20%0AQuestion:%20
 - Repo-to-Revenue inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-to-revenue-setup.yml
-- Anki Deck Packaging Payhip checkout: https://payhip.com/b/lytaz
+- Anki Deck Packaging checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 - Anki Deck Packaging private question: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Packaging%20question&body=Public%20deck,%20CSV,%20notes,%20or%20repo%20URL:%20%0AQuestion:%20
 - Anki Deck Packaging inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 
@@ -131,7 +131,7 @@ JLPT N5/N4 Japanese vocabulary pack for anime, J-pop, drama, and travel-focused 
 
 Product page: https://duct-tape2.github.io/japanese-anki-pack/
 
-Payhip checkout: https://payhip.com/b/D0mhb
+Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 Email delivery note: mailto:sks7178@gmail.com?subject=Japanese%20Anki%20Pack%20delivery&body=Offer:%20Easy%20Japanese%20Vocabulary%20Pack%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
@@ -149,7 +149,7 @@ Five local-first tools for builders using Codex, Claude Code, Cursor, Obsidian, 
 
 Product page: https://duct-tape2.github.io/ai-money-stack/
 
-Payhip checkout: https://payhip.com/b/RJ63W
+Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 Email delivery note: mailto:sks7178@gmail.com?subject=AI%20Money%20Stack%20delivery&body=Offer:%20AI%20Money%20Stack%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
@@ -168,7 +168,7 @@ Local-first starter kit for turning one topic line into short-form content plann
 
 Product page: https://duct-tape2.github.io/shorts-item-generator/
 
-Payhip checkout: https://payhip.com/b/aUOu1
+Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 Email delivery note: mailto:sks7178@gmail.com?subject=Shorts%20Item%20Generator%20Starter%20delivery&body=Offer:%20Shorts%20Item%20Generator%20Starter%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
@@ -210,7 +210,7 @@ Static storefront page builder: https://duct-tape2.github.io/tools/static-storef
 
 PayPal checkout builder: https://duct-tape2.github.io/tools/paypal-button-builder/
 
-Payhip checkout: https://payhip.com/b/KN6XS
+Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 Email delivery note: mailto:sks7178@gmail.com?subject=Storefront%20Starter%20delivery&body=Offer:%20GitHub%20Pages%20Storefront%20Starter%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
@@ -252,13 +252,13 @@ Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 
 Sample deck preview: https://duct-tape2.github.io/examples/japanese-anki-sample-deck/
 
-Payhip checkout: https://payhip.com/b/cSObV
+Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 Email delivery note: mailto:sks7178@gmail.com?subject=Anki%20Deck%20Builder%20Kit%20delivery&body=Offer:%20Anki%20Deck%20Builder%20Kit%0APayment%20method:%20PayPal%0APayer%20name%20or%20email%20prefix:%20%0AApprox%20payment%20time:%20%0ADelivery%20email:%20
 
 Delivery help: https://github.com/duct-tape2/duct-tape2.github.io/issues/new?template=buy-offer.yml
 
-All offers checkout: https://duct-tape2.github.io/buy/
+All offers and checkout status: https://duct-tape2.github.io/buy/
 
 ## Services
 
@@ -268,7 +268,7 @@ I turn one existing GitHub repo or small digital product into a buyer-ready page
 
 Service page: https://duct-tape2.github.io/ai-money-stack/repo-to-revenue/
 
-Checkout: https://payhip.com/b/ZOl1I
+Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 Inquiry: https://github.com/duct-tape2/ai-money-stack/issues/new?template=repo-to-revenue-setup.yml
 
@@ -286,7 +286,7 @@ Sample Anki deck review report: https://duct-tape2.github.io/examples/anki-deck-
 
 Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
 
-Checkout: https://payhip.com/b/lytaz
+Checkout confirmation: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
 Inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 
