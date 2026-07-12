@@ -1,26 +1,26 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Direct checkout for all offers
+  - name: Offer and checkout status
     url: https://duct-tape2.github.io/buy/
-    about: Buy nine live Payhip listings or start a request-first review.
+    about: Review all offers and the current payment-acceptance status.
   - name: Offer catalog
     url: https://duct-tape2.github.io/offers.json
     about: Machine-readable list of all 11 public offers and request paths.
-  - name: Pay $9 starter
-    url: https://payhip.com/b/aUOu1
-    about: Pay for Shorts Item Generator Starter.
+  - name: Confirm $9 starter checkout
+    url: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
+    about: Request a working checkout before paying for Shorts Item Generator Starter.
   - name: Choose a $19 starter kit
     url: https://duct-tape2.github.io/tools/offer-chooser/
     about: Choose Storefront Starter or Anki Deck Builder Kit.
-  - name: Pay $39 launch bundle
-    url: https://payhip.com/b/qHsNi
-    about: Pay for Repo-to-Revenue Launch Bundle.
+  - name: Confirm $39 bundle checkout
+    url: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
+    about: Request a working checkout before paying for Repo-to-Revenue Launch Bundle.
   - name: Request a $49 review
     url: https://duct-tape2.github.io/tools/offer-chooser/
     about: Choose a Storefront Review or Anki Deck Review and request scope first.
-  - name: Book $99 setup service
-    url: https://payhip.com/b/ZOl1I
-    about: Book Repo-to-Revenue Setup for one public repo or product.
+  - name: Confirm $99 setup checkout
+    url: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
+    about: Confirm scope and a working checkout before paying for Repo-to-Revenue Setup.
   - name: Private email
     url: mailto:sks7178@gmail.com
     about: Send private support or service intake details.
