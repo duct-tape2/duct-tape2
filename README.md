@@ -1,5 +1,10 @@
 # duct-tape2
 
+**Public engineering profile:** https://duct-tape2.github.io/work/
+
+Python, TypeScript, Expo, FastAPI, release workflows, and a merged upstream
+feature, with public evidence and a scoped paid-trial route.
+
 ## Open Source Maintenance
 
 I maintain [ai-language-partner](https://github.com/duct-tape2/ai-language-partner),
