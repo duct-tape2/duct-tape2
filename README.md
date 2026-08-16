@@ -44,7 +44,7 @@ analytics are used as proof.
 
 - [Storefront Checker](https://duct-tape2.github.io/storefront-checker/)
 - [Static Storefront Page Builder](https://duct-tape2.github.io/tools/static-storefront-builder/)
-- [Offer Chooser](https://duct-tape2.github.io/tools/offer-chooser/)
+- [Product Page Audit Checklist](https://duct-tape2.github.io/guides/digital-product-storefront-audit/)
 - [GitHub Pages Storefront Starter template](https://github.com/duct-tape2/github-pages-storefront-starter)
 
 ## Open Source
