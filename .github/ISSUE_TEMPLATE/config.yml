@@ -1,26 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Offer and checkout status
-    url: https://duct-tape2.github.io/buy/
-    about: Review all offers and the current payment-acceptance status.
-  - name: Offer catalog
-    url: https://duct-tape2.github.io/offers.json
-    about: Machine-readable list of all 11 public offers and request paths.
-  - name: Confirm $9 starter checkout
-    url: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
-    about: Request a working checkout before paying for Shorts Item Generator Starter.
-  - name: Choose a $19 starter kit
-    url: https://duct-tape2.github.io/tools/offer-chooser/
-    about: Choose Storefront Starter or Anki Deck Builder Kit.
-  - name: Confirm $39 bundle checkout
-    url: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
-    about: Request a working checkout before paying for Repo-to-Revenue Launch Bundle.
-  - name: Request a $49 review
-    url: https://duct-tape2.github.io/tools/offer-chooser/
-    about: Choose a Storefront Review or Anki Deck Review and request scope first.
-  - name: Confirm $99 setup checkout
-    url: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
-    about: Confirm scope and a working checkout before paying for Repo-to-Revenue Setup.
-  - name: Private email
-    url: mailto:sks7178@gmail.com
-    about: Send private support or service intake details.
+  - name: $99 GitHub Repo Product Page Service
+    url: https://duct-tape2.github.io/repo-launch/
+    about: Review the fixed scope, public deliverables, timeline, and request path.
+  - name: Public work and evidence
+    url: https://duct-tape2.github.io/work/
+    about: Inspect published work and the storefront case study before requesting service.
+  - name: Ask privately by email
+    url: mailto:sks7178@gmail.com?subject=GitHub%20Repo%20Product%20Page%20Service%20question
+    about: Send private intake details without posting them in a public GitHub issue.
