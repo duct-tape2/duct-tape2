@@ -1,77 +1,42 @@
-name: Paid Product Or Service Inquiry
-description: Ask a public-safe question and confirm a working checkout before payment.
+name: $99 GitHub Repo Product Page Inquiry
+description: Check fit for one existing repo and confirm a working checkout before payment.
 title: "[PAID INQUIRY] "
 labels: ["paid-inquiry"]
 body:
   - type: markdown
     attributes:
       value: |
-        Use this public-safe form for paid product, review, or service questions.
+        Use this public-safe form for the fixed $99 GitHub Repo Product Page Service:
+        https://duct-tape2.github.io/repo-launch/
 
-        Checkout availability is temporarily paused while payout settings are restored. Do not attempt payment through an unconfirmed link. Select "Need a confirmed working checkout" below; the maintainer will verify the payment route before any work or delivery begins.
+        One existing public repo or small digital product becomes a buyer-ready page with clear positioning, public proof, README polish, a tested inquiry path, and delivery notes. Delivery is four days after the repo, scope, assets, and payment are confirmed.
 
-        Offer details:
-        - $5 Free Tools Thank-You Tip: https://duct-tape2.github.io/buy/
-        - $9 Shorts Item Generator Starter: https://duct-tape2.github.io/shorts-item-generator/
-        - $19 Storefront Starter: https://duct-tape2.github.io/storefront-starter/
-        - $19 Anki Deck Builder Kit: https://duct-tape2.github.io/anki-deck-builder-kit/
-        - $25 AI Money Stack: https://duct-tape2.github.io/ai-money-stack/
-        - $29 Japanese Anki Pack: https://duct-tape2.github.io/japanese-anki-pack/
-        - $39 Repo-to-Revenue Launch Bundle: https://duct-tape2.github.io/repo-to-revenue-launch-bundle/
-        - $49 Storefront Review: https://duct-tape2.github.io/storefront-review/
-        - $49 Anki Deck Review: https://duct-tape2.github.io/anki-deck-review/
-        - $99 Repo-to-Revenue Setup: https://duct-tape2.github.io/ai-money-stack/repo-to-revenue/
-        - $99 Anki Deck Packaging: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
-
-        Full catalog: https://duct-tape2.github.io/offers.json
-
-        Digital delivery and service intake begin only after a working checkout and payment are confirmed. The $49 reviews always start with a public-safe request before payment.
+        Checkout availability is temporarily paused while payout settings are restored. Do not attempt payment through an unconfirmed link. Select "Need a confirmed working checkout" below; the maintainer will verify the payment route before any work begins.
 
         Do not post full transaction IDs, payment screenshots, private files, customer data, passwords, API keys, private analytics, or private URLs in this public issue.
-  - type: dropdown
-    id: offer
-    attributes:
-      label: Offer
-      options:
-        - $5 Free Tools Thank-You Tip
-        - $9 Shorts Item Generator Starter
-        - $19 GitHub Pages Storefront Starter
-        - $19 Anki Deck Builder Kit
-        - $25 AI Money Stack
-        - $29 Japanese Anki Pack
-        - $39 Repo-to-Revenue Launch Bundle
-        - $49 Storefront Review
-        - $49 Anki Deck Review
-        - $99 Repo-to-Revenue Setup
-        - $99 Anki Deck Packaging
-        - Not sure yet
-    validations:
-      required: true
   - type: dropdown
     id: payment-status
     attributes:
       label: Payment status
       options:
-        - Asking before payment
+        - Asking about fit before payment
         - Need a confirmed working checkout
         - Already paid through a previously confirmed checkout
-        - Review request submitted before payment
-        - Need help choosing an offer
     validations:
       required: true
   - type: textarea
-    id: public-context
+    id: public-repo
     attributes:
-      label: Public-safe context
-      description: Share only public links or a short public-safe summary.
-      placeholder: "Public page/repo URL, what you want reviewed or packaged, and the outcome you want."
+      label: Existing public repo or product URL
+      description: Share only a public URL. Do not include credentials or private access details.
+      placeholder: "https://github.com/owner/repository"
     validations:
       required: true
   - type: textarea
-    id: delivery
+    id: outcome
     attributes:
-      label: Delivery note
-      description: Write "emailed" if you already sent private delivery details.
-      placeholder: "emailed / will email after payment / public answer is enough"
+      label: Buyer and outcome
+      description: Briefly describe the intended buyer and what should be clearer after this setup.
+      placeholder: "The buyer is... The page should help them understand..."
     validations:
-      required: false
+      required: true
