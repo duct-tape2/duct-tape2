@@ -23,6 +23,7 @@ are confirmed.
 
 - [See the full service](https://duct-tape2.github.io/repo-launch/)
 - [Inspect the storefront case study](https://duct-tape2.github.io/examples/storefront-starter-case-study/)
+- [Follow the offer feed](https://duct-tape2.github.io/feed.xml)
 - [Request the $99 setup](https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml)
 - [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20repo%20or%20product%20URL:%20%0AQuestion:%20)
 
