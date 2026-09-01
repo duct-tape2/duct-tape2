@@ -1,5 +1,5 @@
 name: $99 GitHub Repo Product Page Inquiry
-description: Check fit for one existing repo and confirm a working checkout before payment.
+description: Check fit for one existing public repo before private payment instructions.
 title: "[PAID INQUIRY] "
 labels: ["paid-inquiry"]
 body:
@@ -9,21 +9,15 @@ body:
         Use this public-safe form for the fixed $99 GitHub Repo Product Page Service:
         https://duct-tape2.github.io/repo-launch/
 
-        One existing public repo or small digital product becomes a buyer-ready page with clear positioning, public proof, README polish, a tested inquiry path, and delivery notes. Delivery is four days after the repo, scope, assets, and payment are confirmed.
+        Inspect the public evidence first:
+        - Work: https://duct-tape2.github.io/work/
+        - Case study: https://duct-tape2.github.io/examples/storefront-starter-case-study/
 
-        Checkout availability is temporarily paused while payout settings are restored. Do not attempt payment through an unconfirmed link. Select "Need a confirmed working checkout" below; the maintainer will verify the payment route before any work begins.
+        One existing public repo becomes a buyer-ready product page with clear positioning, public proof, README polish, an approved inquiry path, and delivery notes. Delivery is four days after the repo, scope, assets, and payment are confirmed.
+
+        Submit the public repo and desired outcome first. The maintainer confirms fit and scope, then provides private payment instructions directly. No public checkout is represented as ready, and work begins only after payment is confirmed.
 
         Do not post full transaction IDs, payment screenshots, private files, customer data, passwords, API keys, private analytics, or private URLs in this public issue.
-  - type: dropdown
-    id: payment-status
-    attributes:
-      label: Payment status
-      options:
-        - Asking about fit before payment
-        - Need a confirmed working checkout
-        - Already paid through a previously confirmed checkout
-    validations:
-      required: true
   - type: textarea
     id: public-repo
     attributes:
