@@ -14,21 +14,22 @@ One existing repo becomes one clear offer with:
 - a responsive GitHub Pages landing page
 - README offer and CTA cleanup
 - one public-safe sample or preview path
-- buyer inquiry or approved checkout-link integration
+- approved GitHub issue and email inquiry integration
 - desktop, mobile, download, and link validation
 - a delivery checklist and one copy-correction pass
 
-Delivery is four days after the repo, scope, assets, and a working payment path
-are confirmed.
+Delivery is four days after the repo, scope, assets, and payment are confirmed.
 
 - [See the full service](https://duct-tape2.github.io/repo-launch/)
 - [Inspect the storefront case study](https://duct-tape2.github.io/examples/storefront-starter-case-study/)
+- [Read the versioned service brief](https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-repo-product-page-service)
 - [Follow the offer feed](https://duct-tape2.github.io/feed.xml)
 - [Request the $99 setup](https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml)
 - [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20repo%20or%20product%20URL:%20%0AQuestion:%20)
 
-Payment acceptance is confirmed before payment and work begins only after scope
-and payment confirmation.
+Fit and scope are confirmed first, then private payment instructions are provided
+directly. No public checkout is represented as ready. Work begins only after
+payment is confirmed.
 
 ## Public Evidence
 
