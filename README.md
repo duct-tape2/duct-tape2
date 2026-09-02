@@ -1,7 +1,7 @@
 # duct-tape2
 
-I turn existing GitHub repositories and small digital products into clearer
-buyer-ready pages. My work is public, inspectable, and fixed in scope.
+I turn one existing public GitHub repository into a clearer buyer-ready product
+page. My work is public, inspectable, and fixed in scope.
 
 **Public work:** https://duct-tape2.github.io/work/
 
@@ -25,7 +25,7 @@ Delivery is four days after the repo, scope, assets, and payment are confirmed.
 - [Read the versioned service brief](https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-repo-product-page-service)
 - [Follow the offer feed](https://duct-tape2.github.io/feed.xml)
 - [Request the $99 setup](https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml)
-- [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20repo%20or%20product%20URL:%20%0AQuestion:%20)
+- [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20GitHub%20repo%20URL:%20%0AQuestion:%20)
 
 Fit and scope are confirmed first, then private payment instructions are provided
 directly. No public checkout is represented as ready. Work begins only after
@@ -61,9 +61,9 @@ FastAPI backend, hosted web demo, CI, and documented contribution paths.
 
 ## Scope
 
-Good fits include small CLIs, templates, browser tools, local-first utilities,
-documentation packs, course assets, and digital products that already exist and
-have a specific buyer.
+Good fits are existing public GitHub repos for small CLIs, templates, browser
+tools, local-first utilities, documentation packs, course assets, or other small
+software products that already have a specific buyer.
 
 I do not take security, vulnerability, exploit, bypass, jailbreak, credential,
 crypto, spam, fake-engagement, personal-data scraping, academic-cheating, or

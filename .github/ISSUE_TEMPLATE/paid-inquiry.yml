@@ -21,7 +21,7 @@ body:
   - type: textarea
     id: public-repo
     attributes:
-      label: Existing public repo or product URL
+      label: Existing public GitHub repo URL
       description: Share only a public URL. Do not include credentials or private access details.
       placeholder: "https://github.com/owner/repository"
     validations:
