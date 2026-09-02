@@ -5,7 +5,13 @@ contact_links:
     about: Review the fixed scope, public deliverables, timeline, and request path.
   - name: Public work and evidence
     url: https://duct-tape2.github.io/work/
-    about: Inspect published work and the storefront case study before requesting service.
+    about: Inspect published repositories, shipped pages, tools, and documentation.
+  - name: Storefront Starter case study
+    url: https://duct-tape2.github.io/examples/storefront-starter-case-study/
+    about: Review the page structure, inquiry path, sample, and delivery evidence.
+  - name: Versioned service brief
+    url: https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-repo-product-page-service
+    about: Check the fixed scope, delivery terms, inquiry paths, and exclusions on GitHub.
   - name: Ask privately by email
     url: mailto:sks7178@gmail.com?subject=GitHub%20Repo%20Product%20Page%20Service%20question
     about: Send private intake details without posting them in a public GitHub issue.
