@@ -1,7 +1,7 @@
 # duct-tape2
 
-I turn one existing public GitHub repository into a clearer buyer-ready product
-page. My work is public, inspectable, and fixed in scope.
+I offer a fixed $99 service that turns one existing public GitHub repository
+into a clearer buyer-ready product page. My work is public and inspectable.
 
 **Public work:** https://duct-tape2.github.io/work/
 
