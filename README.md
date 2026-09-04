@@ -5,6 +5,8 @@ into a clearer buyer-ready product page. My work is public and inspectable.
 
 **Service:** https://duct-tape2.github.io/repo-launch/
 
+**Case study:** https://duct-tape2.github.io/examples/storefront-starter-case-study/
+
 **Public work:** https://duct-tape2.github.io/work/
 
 ## Fixed-Price Service
