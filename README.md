@@ -9,6 +9,8 @@ into a clearer buyer-ready product page. My work is public and inspectable.
 
 **Public work:** https://duct-tape2.github.io/work/
 
+**Paid inquiry:** https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
+
 ## Fixed-Price Service
 
 ### Turn Your GitHub Repo Into a Buyer-Ready Product Page - $99
