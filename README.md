@@ -13,6 +13,9 @@ into a clearer buyer-ready product page. My work is public and inspectable.
 
 **Private email:** [sks7178@gmail.com](mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20GitHub%20repo%20URL:%20%0AQuestion:%20)
 
+Include the public repo URL, intended buyer, and preferred deadline. Scope is
+confirmed before private payment instructions are provided.
+
 ## Fixed-Price Service
 
 ### Turn Your GitHub Repo Into a Buyer-Ready Product Page - $99
