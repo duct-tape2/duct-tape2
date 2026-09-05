@@ -5,6 +5,7 @@ into a clearer buyer-ready product page. My work is public and inspectable.
 Worldwide inquiries are welcome in English; pricing is in USD.
 Best fits include small CLIs, browser tools, templates, local-first utilities,
 and documentation products that already have a specific buyer.
+Delivery is four days after the repo, scope, assets, and payment are confirmed.
 
 [![GitHub Repo Product Page Service - fixed $99 scope](https://duct-tape2.github.io/repo-launch/assets/github-repo-product-page-1600x900.png)](https://duct-tape2.github.io/repo-launch/)
 
