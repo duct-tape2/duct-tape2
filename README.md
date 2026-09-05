@@ -3,6 +3,8 @@
 I offer a fixed $99 service that turns one existing public GitHub repository
 into a clearer buyer-ready product page. My work is public and inspectable.
 
+[![GitHub Repo Product Page Service - fixed $99 scope](https://duct-tape2.github.io/repo-launch/assets/github-repo-product-page-1600x900.png)](https://duct-tape2.github.io/repo-launch/)
+
 **Service:** https://duct-tape2.github.io/repo-launch/
 
 **Case study:** https://duct-tape2.github.io/examples/storefront-starter-case-study/
