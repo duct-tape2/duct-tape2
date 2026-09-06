@@ -8,6 +8,8 @@ and documentation products that already have a specific buyer.
 Delivery is four days after the repo, scope, assets, and payment are confirmed.
 The fixed scope includes a landing page, README cleanup, a public-safe sample,
 the approved buyer path, and desktop/mobile/link validation.
+Fit is confirmed before private payment instructions are shared; no public
+checkout is represented as ready.
 
 [![GitHub Repo Product Page Service - fixed $99 scope](https://duct-tape2.github.io/repo-launch/assets/github-repo-product-page-1600x900.png)](https://duct-tape2.github.io/repo-launch/)
 
