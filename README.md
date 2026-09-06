@@ -15,6 +15,8 @@ checkout is represented as ready.
 
 **Service:** https://duct-tape2.github.io/repo-launch/
 
+**Versioned service brief:** https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-repo-product-page-service
+
 **Case study:** https://duct-tape2.github.io/examples/storefront-starter-case-study/
 
 **Public work:** https://duct-tape2.github.io/work/
