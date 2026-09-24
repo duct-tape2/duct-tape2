@@ -23,7 +23,7 @@ checkout is represented as ready.
 
 **Paid inquiry:** https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
-**Private email:** [sks7178@gmail.com](mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20GitHub%20repo%20URL:%20%0AQuestion:%20)
+**Private email:** [sks7178@gmail.com](mailto:sks7178@gmail.com?subject=Repo%20Launch%20%2499%20inquiry&body=Public%20repo%20URL:%20%0AIntended%20buyer%20or%20outcome:%20%0APreferred%20deadline:%20)
 
 Include the public repo URL, intended buyer, and preferred deadline. Scope is
 confirmed before private payment instructions are provided.
@@ -48,7 +48,7 @@ Delivery is four days after the repo, scope, assets, and payment are confirmed.
 - [Read the versioned service brief](https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-repo-product-page-service)
 - [Follow the offer feed](https://duct-tape2.github.io/feed.xml)
 - [Request the $99 setup](https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml)
-- [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo-to-Revenue%20setup%20question&body=Public%20GitHub%20repo%20URL:%20%0AQuestion:%20)
+- [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo%20Launch%20%2499%20inquiry&body=Public%20repo%20URL:%20%0AIntended%20buyer%20or%20outcome:%20%0APreferred%20deadline:%20)
 
 Fit and scope are confirmed first, then private payment instructions are provided
 directly. No public checkout is represented as ready. Work begins only after
