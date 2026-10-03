@@ -34,3 +34,11 @@ body:
       placeholder: "The buyer is... The page should help them understand..."
     validations:
       required: true
+  - type: input
+    id: preferred-deadline
+    attributes:
+      label: Preferred deadline
+      description: Share a date or say "No fixed deadline." Delivery starts only after scope, assets, and payment are confirmed.
+      placeholder: "YYYY-MM-DD or No fixed deadline"
+    validations:
+      required: true
