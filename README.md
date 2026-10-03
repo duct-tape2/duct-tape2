@@ -17,6 +17,10 @@ checkout is represented as ready.
 
 **Versioned service brief:** https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-repo-product-page-service
 
+**Machine-readable offer:** https://duct-tape2.github.io/offers.json
+
+**LLM-readable summary:** https://duct-tape2.github.io/llms.txt
+
 **Case study:** https://duct-tape2.github.io/examples/storefront-starter-case-study/
 
 **Public work:** https://duct-tape2.github.io/work/
@@ -46,6 +50,8 @@ Delivery is four days after the repo, scope, assets, and payment are confirmed.
 - [See the full service](https://duct-tape2.github.io/repo-launch/)
 - [Inspect the storefront case study](https://duct-tape2.github.io/examples/storefront-starter-case-study/)
 - [Read the versioned service brief](https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-repo-product-page-service)
+- [Inspect the machine-readable offer](https://duct-tape2.github.io/offers.json)
+- [Read the LLM-friendly service summary](https://duct-tape2.github.io/llms.txt)
 - [Follow the offer feed](https://duct-tape2.github.io/feed.xml)
 - [Request the $99 setup](https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml)
 - [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo%20Launch%20%2499%20inquiry&body=Public%20repo%20URL:%20%0AIntended%20buyer%20or%20outcome:%20%0APreferred%20deadline:%20)
