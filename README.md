@@ -1,7 +1,8 @@
-# duct-tape2
+# GitHub Repo Product Page Service - $99
 
-I offer a fixed $99 service that turns one existing public GitHub repository
-into a clearer buyer-ready product page. My work is public and inspectable.
+I am duct-tape2. I offer a fixed $99 service that turns one existing public
+GitHub repository into a clearer buyer-ready product page. My work is public
+and inspectable.
 Worldwide inquiries are welcome in English; pricing is in USD.
 Best fits include small CLIs, browser tools, templates, local-first utilities,
 and documentation products that already have a specific buyer.
