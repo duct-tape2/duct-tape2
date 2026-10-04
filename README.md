@@ -28,7 +28,7 @@ checkout is represented as ready.
 
 **Paid inquiry:** https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 
-**Private email:** [sks7178@gmail.com](mailto:sks7178@gmail.com?subject=Repo%20Launch%20%2499%20inquiry&body=Public%20repo%20URL:%20%0AIntended%20buyer%20or%20outcome:%20%0APreferred%20deadline:%20)
+**Private email:** [sks7178@gmail.com](mailto:sks7178@gmail.com?subject=Repo%20Launch%20%2499%20inquiry&body=Public%20repo%20URL:%20%0AIntended%20buyer%20or%20outcome:%20%0ACurrent%20public%20page%20or%20demo%20URL%20(optional):%20%0APreferred%20deadline:%20)
 
 Include the public repo URL, intended buyer, and preferred deadline. Scope is
 confirmed before private payment instructions are provided.
@@ -55,7 +55,7 @@ Delivery is four days after the repo, scope, assets, and payment are confirmed.
 - [Read the LLM-friendly service summary](https://duct-tape2.github.io/llms.txt)
 - [Follow the offer feed](https://duct-tape2.github.io/feed.xml)
 - [Request the $99 setup](https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml)
-- [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo%20Launch%20%2499%20inquiry&body=Public%20repo%20URL:%20%0AIntended%20buyer%20or%20outcome:%20%0APreferred%20deadline:%20)
+- [Ask privately by email](mailto:sks7178@gmail.com?subject=Repo%20Launch%20%2499%20inquiry&body=Public%20repo%20URL:%20%0AIntended%20buyer%20or%20outcome:%20%0ACurrent%20public%20page%20or%20demo%20URL%20(optional):%20%0APreferred%20deadline:%20)
 
 Fit and scope are confirmed first, then private payment instructions are provided
 directly. No public checkout is represented as ready. Work begins only after
