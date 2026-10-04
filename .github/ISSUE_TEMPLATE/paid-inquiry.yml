@@ -35,6 +35,12 @@ body:
     validations:
       required: true
   - type: input
+    id: current-public-page
+    attributes:
+      label: Current public page or demo URL
+      description: Optional. Share an existing public page that should be clarified or replaced.
+      placeholder: "https://example.com/current-page"
+  - type: input
     id: preferred-deadline
     attributes:
       label: Preferred deadline
