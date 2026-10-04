@@ -30,8 +30,9 @@ checkout is represented as ready.
 
 **Private email:** [sks7178@gmail.com](mailto:sks7178@gmail.com?subject=Repo%20Launch%20%2499%20inquiry&body=Public%20repo%20URL:%20%0AIntended%20buyer%20or%20outcome:%20%0ACurrent%20public%20page%20or%20demo%20URL%20(optional):%20%0APreferred%20deadline:%20)
 
-Include the public repo URL, intended buyer, and preferred deadline. Scope is
-confirmed before private payment instructions are provided.
+Include the public repo URL, intended buyer, preferred deadline, and, when one
+exists, the current public page or demo URL. Scope is confirmed before private
+payment instructions are provided.
 
 ## Fixed-Price Service
 
