@@ -16,6 +16,8 @@ checkout is represented as ready.
 
 **Service:** https://duct-tape2.github.io/repo-launch/
 
+**Review before inquiry:** [public evidence](https://duct-tape2.github.io/repo-launch/#proof) · [delivery process](https://duct-tape2.github.io/repo-launch/#process) · [fixed scope and price](https://duct-tape2.github.io/repo-launch/#price)
+
 **Versioned service brief:** https://github.com/duct-tape2/duct-tape2.github.io/releases/tag/v1.0-repo-product-page-service
 
 **Machine-readable offer:** https://duct-tape2.github.io/offers.json
