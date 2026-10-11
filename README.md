@@ -12,6 +12,19 @@ the approved buyer path, and desktop/mobile/link validation.
 Fit is confirmed before private payment instructions are shared; no public
 checkout is represented as ready.
 
+## Best Fit
+
+This is a focused GitHub Pages and README service for repo owners who already
+have a working public project and need a clearer buyer path. It is a strong fit
+for:
+
+- a GitHub Pages landing page for an existing public repository
+- an open-source product page or developer-tool launch page
+- README conversion cleanup with one clear buyer inquiry path
+
+The public [storefront case study](https://duct-tape2.github.io/examples/storefront-starter-case-study/)
+shows the page structure and validation work before you inquire.
+
 [![GitHub Repo Product Page Service - fixed $99 scope](https://duct-tape2.github.io/repo-launch/assets/github-repo-product-page-1600x900.png)](https://duct-tape2.github.io/repo-launch/)
 
 **Service:** https://duct-tape2.github.io/repo-launch/
